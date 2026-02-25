@@ -1,1 +1,1 @@
-{\n  "name": "markmevius",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    // existing dependencies\n  },\n  "devDependencies": {\n    "typescript": "latest",\n    "@types/react": "latest",\n    "@types/node": "latest",\n    "@types/react-dom": "latest"\n  }\n}
+{"name": "markmevius", "version": "1.0.0", "private": true, "scripts": {"start": "node index.js", "test": "echo 'Error: no test specified' && exit 1}, "dependencies": {}, "devDependencies": {"typescript": "latest", "@types/react": "latest", "@types/node": "latest"}}
